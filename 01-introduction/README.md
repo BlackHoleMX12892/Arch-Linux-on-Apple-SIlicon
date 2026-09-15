@@ -11,6 +11,8 @@ Using Arch Linux ARM allows the guest to avoid heavy translation layers, therefo
 * [Alpine Linux Standard aarch64 Image](https://alpinelinux.org/downloads/)
 * Internet Connection
 * A Mac with Apple chip
+* Some experience with Linux (recommended)
+
+---
 
 By the end of this tutorial you will have a fast and completely functional Arch Linux system running in your Mac.
-
