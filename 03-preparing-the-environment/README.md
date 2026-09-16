@@ -1,4 +1,4 @@
-# Preparing the environment
+# 03 - Preparing the environment
 
 After booting the Virtual Machine and login as root, enable networking by running:
 
