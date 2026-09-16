@@ -23,3 +23,5 @@ This chapter will focus on the creation of the machine inside of UTM.
 Don't add a shared folder for now and create the virtual disk, give the VM a name and complete the creation.
 
 You have succesfully created the machine, now it's time to boot.
+
+[Next: Preparing the environment](https://github.com/BlackHoleMX12892/Arch-Linux-on-Apple-Silicon/tree/main/03-preparing-the-environment)
